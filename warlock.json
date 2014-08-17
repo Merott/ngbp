@@ -18,5 +18,6 @@
         "configFile": "karma.conf.js"
       }
     }
-  }
+  },
+  "plugins": ["plugins/warlock-spell-strip-code" ]
 }
